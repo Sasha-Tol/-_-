@@ -163,11 +163,11 @@
 
 | --- | --- | --- | --- |
 
-| Сбор травы | действие -> условие -> результат | https://excalidraw.com/#json=LfWGKyNshY_Q_uX2omuM1,3axw8ywXA-zTA2TnGNxV0g | Как герой собирает траву, есть ли перед ней монстры или нет |
+| Сбор травы | действие -> условие -> результат |<img width="877" height="581" alt="mex 1" src="https://github.com/user-attachments/assets/5324832a-c776-4157-a91d-ebe13df38836" /> | Как герой собирает траву, есть ли перед ней монстры или нет |
 
-| Открытие сундуков | действие -> условие -> результат | https://excalidraw.com/#json=REYOHO5peC3XfY4tCGpGC,UokPyOsnF8A4-S3mE7xDdQ | Как герой открывает сундук, есть ли перед ним монстры |
+| Открытие сундуков | действие -> условие -> результат |<img width="934" height="653" alt="mex 2" src="https://github.com/user-attachments/assets/84928f54-a9f2-4328-a29c-1771c1e43023" /> | Как герой открывает сундук, есть ли перед ним монстры |
 
-| Бой с монстрами | действие -> условие -> результат | https://excalidraw.com/#json=59LrCncO1_pxZx7pga7lB,ZDDJRrEzOCr0-b7xyn5y2A | Как герой борется с монстрами |
+| Бой с монстрами | действие -> условие -> результат | <img width="936" height="699" alt="mex 3" src="https://github.com/user-attachments/assets/0ff52c93-bb6e-4742-b4da-a6d06f4132a3" /> | Как герой борется с монстрами |
 
 ---
 
@@ -209,7 +209,3 @@
 
 **Что игрок должен сделать за 3–5 минут:** начать играть , и собрать уже 1 сундук , и 1 пучок травы
 
----
-<img width="936" height="699" alt="mex 3" src="https://github.com/user-attachments/assets/0ff52c93-bb6e-4742-b4da-a6d06f4132a3" />
-<img width="934" height="653" alt="mex 2" src="https://github.com/user-attachments/assets/84928f54-a9f2-4328-a29c-1771c1e43023" />
-<img width="877" height="581" alt="mex 1" src="https://github.com/user-attachments/assets/5324832a-c776-4157-a91d-ebe13df38836" />
